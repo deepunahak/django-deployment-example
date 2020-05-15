@@ -25,7 +25,7 @@ SECRET_KEY = 'wmh4%o41=8^9zl*s)$z=z0r1+c4u&16te@0l(4#3_-twvj_%#j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://deepunahak.pythonanywhere.com/']
+ALLOWED_HOSTS = []
 
 
 # Application definition
